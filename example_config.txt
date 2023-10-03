@@ -1,0 +1,3 @@
+goal-wordcount 50000
+goal-type regular-daily
+goal-rounding up
